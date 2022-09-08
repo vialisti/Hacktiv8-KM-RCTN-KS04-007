@@ -1,0 +1,94 @@
+.content{
+    width: 100%;
+    padding: 50px;
+}
+
+.content h2{
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.meet-container{
+    display: flex;
+    justify-content: center;
+}
+
+.next-meet{
+    background-color: #f0f0d6;
+    padding: 30px;
+    width: 95%;
+    border-radius: 5px;
+}
+
+.next-meet p{
+    margin: 12px 0;
+}
+
+.next-meet label{
+    color: #6c7a89;
+}
+
+.about-meet{
+    background-color: none;
+    width: 95%;
+    border-radius: 5px;
+
+    font-size: 18px;
+}
+
+.about-meet p{
+    padding-bottom: 10px;
+}
+
+.judul-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.member{
+    background-color: #f0f0d6;
+    padding: 30px;
+    width: 95%;
+    border-radius: 5px;
+}
+
+.member-profile {
+    padding: 20px;
+}
+
+.member-profile h4{
+    padding-bottom: 15px;
+}
+
+.card{
+    border: solid 2px rgb(219, 219, 219);
+    padding: 40px;
+    margin: 0 30px;
+    border-radius: 10px;
+}
+
+.card button{
+    width: 100%;
+    padding: 15px;
+    /* margin-top: 10px; */
+    border: none;
+    background-color: #f7ca18;
+    border-radius: 10px;
+
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.card h3, .card p{
+    padding: 10px 0px;
+}
+
+.card label{
+    color: #6c7a89;
+}
+
+.card hr{
+    background-color:  rgb(126, 126, 126);
+    border-radius: 20px;
+}

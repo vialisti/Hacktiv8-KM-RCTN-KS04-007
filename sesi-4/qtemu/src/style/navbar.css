@@ -1,0 +1,37 @@
+.navbar{
+    background-color:#f7ca18;
+    width: 100%;
+    padding: 20px 50px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-menu ul{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+}
+
+.nav-menu li{
+    list-style-type: none;
+    padding-right: 80px;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 32px;
+    color: black;
+}
+
+.login-menu button{
+    padding: 15px 50px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+
+    background-color: white;
+    font-weight: bold;
+    color: black;
+}
